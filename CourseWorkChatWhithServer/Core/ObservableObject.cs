@@ -1,6 +1,8 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
+//update fore Git
+
 namespace CourseWorkChatWithServer.Core
 {
     class ObservableObject : INotifyPropertyChanged
